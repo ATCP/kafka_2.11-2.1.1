@@ -1,0 +1,4 @@
+[2020-01-28 07:06:00,222] INFO Expiring session 0x1001a5124910000, timeout of 6000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2020-01-28 07:42:32,656] INFO Processed session termination for sessionid: 0x1001a5124910000 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2020-01-28 07:44:07,155] WARN fsync-ing the write ahead log in SyncThread:0 took 24082ms which will adversely effect operation latency. See the ZooKeeper troubleshooting guide (org.apache.zookeeper.server.persistence.FileTxnLog)
+[2020-01-28 07:45:13,889] INFO Closed socket connection for client /127.0.0.1:34692 which had sessionid 0x1001a5124910000 (org.apache.zookeeper.server.NIOServerCnxn)

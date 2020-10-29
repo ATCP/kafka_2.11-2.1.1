@@ -1,0 +1,8 @@
+[2020-01-26 12:01:37,151] WARN Attempting to send response via channel for which there is no open connection, connection id 10.0.11.112:9092-10.0.11.116:57952-4 (kafka.network.Processor)
+[2020-01-26 12:01:37,178] INFO [Log partition=flink-demo-0, dir=/tmp/kafka-logs] Incrementing log start offset to 3526524 (kafka.log.Log)
+[2020-01-26 12:07:52,431] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2020-01-26 12:17:52,431] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2020-01-26 12:27:52,431] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2020-01-26 12:37:52,432] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2020-01-26 12:47:52,431] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2020-01-26 12:57:52,431] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
