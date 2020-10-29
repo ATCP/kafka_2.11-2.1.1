@@ -1,4 +1,0 @@
-[2020-02-18 12:20:32,834] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1583 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2020-02-18 12:20:42,222] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2020-02-18 12:21:08,005] WARN Client session timed out, have not heard from server in 1346144ms for sessionid 0x100006d14f90040 (org.apache.zookeeper.ClientCnxn)
-[2020-02-18 12:21:56,242] INFO Client session timed out, have not heard from server in 1346144ms for sessionid 0x100006d14f90040, closing socket connection and attempting reconnect (org.apache.zookeeper.ClientCnxn)

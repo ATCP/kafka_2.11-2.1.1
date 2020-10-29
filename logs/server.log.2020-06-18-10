@@ -1,8 +1,0 @@
-[2020-06-18 10:05:47,135] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2020-06-18 10:15:47,136] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2020-06-18 10:17:45,730] INFO [Log partition=flink-demo-0, dir=/tmp/kafka-logs] Incrementing log start offset to 79413 (kafka.log.Log)
-[2020-06-18 10:21:01,280] INFO [Log partition=flink-demo-0, dir=/tmp/kafka-logs] Incrementing log start offset to 79846 (kafka.log.Log)
-[2020-06-18 10:25:47,136] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2020-06-18 10:35:47,136] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2020-06-18 10:45:47,136] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2020-06-18 10:55:47,136] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 1 milliseconds. (kafka.coordinator.group.GroupMetadataManager)

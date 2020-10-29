@@ -1,5 +1,0 @@
-[2020-01-30 06:02:02,336] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
-[2020-01-30 06:03:24,908] INFO Terminating process due to signal SIGINT (org.apache.kafka.common.utils.LoggingSignalHandler)
-[2020-01-30 06:03:24,911] INFO [KafkaServer id=0] shutting down (kafka.server.KafkaServer)
-[2020-01-30 06:03:24,912] INFO [KafkaServer id=0] Starting controlled shutdown (kafka.server.KafkaServer)
-[2020-01-30 06:03:25,778] INFO Terminating process due to signal SIGINT (org.apache.kafka.common.utils.LoggingSignalHandler)
